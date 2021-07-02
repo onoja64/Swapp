@@ -19,6 +19,14 @@
       "logoURI": "/images/coins/BUSD.png"
     },
     {
+      "name": "AFR Token",
+      "symbol": "WBNB",
+      "address": "0xe471ed3026f4d098f58a52bb349757bd35a1ecb3",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
       "name": "LP3 Token",
       "symbol": "LP3",
       "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
